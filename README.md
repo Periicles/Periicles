@@ -1,6 +1,9 @@
-### Hi there 👋
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Periicles.Periicles&left_color=grey&right_color=blue)
+
+### Hi there 👋
+Welcome to my Github account!
+I'm a french student at EPITECH Bordeaux.
+More content soon...
 
 <!--
 **Periicles/Periicles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Periicles&theme=react&layout=compact&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Periicles&theme=react&layout=compact&hide_border=true)
