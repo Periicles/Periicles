@@ -1,4 +1,3 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Periicles.Periicles&left_color=grey&right_color=blue)
 
 ### Hi there 👋
 Welcome to my Github account!
