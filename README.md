@@ -61,7 +61,6 @@
     <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Periicles&theme=react&layout=compact&hide_border=true" />
     <img height="175em" src="https://github-readme-streak-stats.herokuapp.com?user=Periicles&theme=react&fire=57F287&hide_border=true" />
      
- [![Periicles's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Periicles&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
-    
+[![Periicles's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Periicles&theme=react)](https://github.com/anuraghazra/github-readme-stats)    
  </div>
  
