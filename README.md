@@ -56,9 +56,12 @@
 </p> 
 
  <br />
- <div align="center">
-    <img height="175em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Periicles&theme=shades-of-purple" />
+<div align="center">
     <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Periicles&show_icons=true&theme=react&hide_border=true&count_private=true" />
     <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Periicles&theme=react&layout=compact&hide_border=true" />
     <img height="175em" src="https://github-readme-streak-stats.herokuapp.com?user=Periicles&theme=react&fire=57F287&hide_border=true" />
- </ div>
+     
+ [![Periicles's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Periicles&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
+    
+ </div>
+ 
