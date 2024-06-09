@@ -7,12 +7,12 @@
 
 <h5 align="center">
   Welcome to my Github account!<br>
-  I'm a french student at EPITECH Bordeaux.<br>
+  I'm a french student at Efrei Bordeaux.<br>
   More content soon...
 </h5>
 
-<h2 align="center">🔧 Technologies & Outils</h2>
-<h3 align="center">💻 Langages</h3>
+<h2 align="center">🔧 Technology & Tools</h2>
+<h3 align="center">💻 Languages</h3>
 
 <p align="center">
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
 </p>
 
-<h2 align="center">💽 Outils utilisés</h2>
+<h2 align="center">💽 Tools</h2>
 
 <p align="center">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
@@ -41,7 +41,7 @@
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
 </p>
 
-<h2 align="center">Systèmes d'exploitation</h2>
+<h2 align="center">OS</h2>
 
 <p align="center">
     <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white">
@@ -49,7 +49,7 @@
     <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white">
 </p>
 
-<h2 align="center">📱Réseau</h2>
+<h2 align="center">📱Networks</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/paul-ragueneau" rel="nofollow noreferrer">
