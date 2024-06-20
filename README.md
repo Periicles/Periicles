@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
 </p>
 
-<h2 align="center">Databases</h2>
+<h3 align="center">Databases</h3>
 
 <p align="center">
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
