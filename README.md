@@ -6,9 +6,9 @@
 </h1>
 
 <h5 align="center">
-  Welcome to my Github account!<br>
-  I'm a french student at Efrei Bordeaux.<br>
-  More content soon...
+    Welcome to my Github account!<br>
+    I'm a french student at Efrei Bordeaux.<br>
+    More content soon...
 </h5>
 
 <h2 align="center">🔧 Technology & Tools</h2>
@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
 </p>
 
-<h3 align="center">Frameworks</h3>
+<h3 align="center">🖼️ Frameworks</h3>
 
 <p align="center">
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
@@ -37,14 +37,14 @@
     <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
 </p>
 
-<h3 align="center">Databases</h3>
+<h3 align="center">💾 Databases</h3>
 
 <p align="center">
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
 
-<h2 align="center">💽 Tools</h2>
+<h2 align="center">🛠️ Tools</h2>
 
 <p align="center">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
@@ -60,11 +60,13 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white">
+    <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0">
+    <br />
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
     <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white">
 </p>
 
-<h2 align="center">📱Networks</h2>
+<h2 align="center">📱 Networks</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/paul-ragueneau" rel="nofollow noreferrer">
