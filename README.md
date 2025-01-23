@@ -11,7 +11,7 @@
     More content soon...
 </h5>
 
-<h2 align="center">🔧 Technology & Tools</h2>
+<h2 align="center">🔧 Technology & Tools used</h2>
 <h3 align="center">💻 Languages</h3>
 
 <p align="center">
