@@ -10,9 +10,9 @@ More content soon...
 
 ---
 
-## 🔧 Technology & Tools used
+<h2 align="center">🔧 Technology & Tools used</h2>
 
-### 💻 Languages
+<h3 align="center">💻 Languages</h3>
 
 <div align="center">
 
@@ -31,7 +31,7 @@ More content soon...
 
 </div>
 
-### 🖼️ Libraries and Frameworks
+<h3 align="center">🖼️ Libraries and Frameworks</h3>
 
 <div align="center">
 
@@ -46,7 +46,7 @@ More content soon...
 
 </div>
 
-### 💾 Databases
+<h3 align="center">💾 Databases</h3>
 
 <div align="center">
 
@@ -57,7 +57,7 @@ More content soon...
 
 ---
 
-## 🛠️ Tools
+<h2 align="center">🛠️ Tools</h2>
 
 <div align="center">
 
@@ -73,7 +73,7 @@ More content soon...
 
 ---
 
-## 💿 OS
+<h2 align="center">💿 OS</h2>
 
 <div align="center">
 
@@ -87,7 +87,7 @@ More content soon...
 
 ---
 
-## 📱 Networks
+<h2 align="center">📱 Networks</h2>
 
 <div align="center">
 
@@ -97,7 +97,7 @@ More content soon...
 
 ---
 
-## 📊 3D Contribution Graph
+<h2 align="center">📊 3D Contribution Graph</h2>
 
 <div align="center">
 
