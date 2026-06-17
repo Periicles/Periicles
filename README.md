@@ -1,10 +1,23 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+There+!+👋&duration=3000&center=true&size=30)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+There+!+👋;I'm+Paul+Ragueneau;Welcome+to+my+profile+!&duration=3000&center=true&size=30&color=57F287)](https://git.io/typing-svg)
 
-Welcome to my Github account!  
-I'm a french student at Efrei Bordeaux.  
-More content soon...
+</div>
+
+<h3 align="center">👨‍💻 About me</h3>
+
+<div align="center">
+
+🎓 French student at **Efrei Bordeaux**  
+💡 Passionate about software development, web & backend  
+🌱 Always learning new technologies  
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/paul-ragueneau)
+
+</div>
+
+<div align="center">
+
+![Profile views](https://komarev.com/ghpvc/?username=Periicles&color=57F287&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -87,17 +100,27 @@ More content soon...
 
 ---
 
-<h2 align="center">📱 Networks</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-ragueneau)
+![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Periicles&show_icons=true&theme=react&hide_border=true&icon_color=57F287&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Periicles&layout=compact&theme=react&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Periicles&theme=react&fire=57F287&hide_border=true)
+
+</div>
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Periicles&theme=darkhub&no-frame=true&column=7&margin-w=10)
 
 </div>
 
 ---
 
-<h2 align="center">📊 3D Contribution Graph</h2>
+<h2 align="center">🧊 3D Contribution Graph</h2>
 
 <div align="center">
 
@@ -107,8 +130,10 @@ More content soon...
 
 ---
 
+<h2 align="center">📱 Networks</h2>
+
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Periicles&theme=react&fire=57F287&hide_border=true)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-ragueneau)
 
 </div>
