@@ -97,6 +97,16 @@ More content soon...
 
 ---
 
+## 📊 3D Contribution Graph
+
+<div align="center">
+
+![3D Contributions](./profile-3d-contrib/profile-green-animate.svg)
+
+</div>
+
+---
+
 <div align="center">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Periicles&theme=react&fire=57F287&hide_border=true)
