@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+There+!+👋;I'm+Paul+Ragueneau;Welcome+to+my+profile+!&duration=3000&center=true&size=30&color=57F287)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+There+!+👋;I'm+Paul+Ragueneau;Welcome+to+my+profile+!&duration=3000&center=true&size=30&color=1572B6)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,7 +10,7 @@
 
 🎓 French student at **Efrei Bordeaux**  
 💡 Passionate about software development, web & backend  
-🌱 Always learning new technologies  
+🌱 Currently focused on **software architecture** & **TypeScript**  
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/paul-ragueneau)
 
 </div>
